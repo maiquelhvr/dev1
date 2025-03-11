@@ -8,7 +8,10 @@ git add .
 git status
 git commit -m "Aula dois"
 git push
-
+(dai ele prompt pra autenticação)
+pegar em settings, developers settings
+personal access tokens, tokens(classic)
+precisa regerar pois ele não deixa ver duas vezes o mesmo
 
 django startproject nome .
 python manage.py runserver
